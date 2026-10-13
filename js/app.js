@@ -1,9 +1,3 @@
-/* =========================================================
-   UrbanStyle - Tienda de Ropa
-   JavaScript principal
-   ========================================================= */
-
-// ===== REFERENCIAS AL DOM =====
 const btnContacto    = document.getElementById("btnContacto");
 const modalContacto  = document.getElementById("modalContacto");
 const cerrarModal    = document.getElementById("cerrarModal");
